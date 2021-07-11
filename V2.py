@@ -1,6 +1,6 @@
 ligne = int(input("Veuillez saisir la taille de l'étoile: "))            #input le nbr de lignes
 col = ligne * 2 - 5                                                      #nombre de colonne 
-mid = col//2                                                             #Colonne du milieux
+mid = col//2                                                             #Colonne du milieu
 
 
 for i in range(0, ligne):                                                #boucle for lignes
